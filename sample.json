@@ -1,0 +1,10 @@
+{
+  "github_token": "1234Example",
+  "spectral_token": "1234Example",
+  "aws":{
+    "aws_access_key_id": "AKIAYWEXAMPLE",
+    "aws_secret_access_key": "ChDMzEXAMPLE",
+    "SerialNumber": "arn:aws:iam::597EXAMPLE",
+    "other_key": "H2CCg5YhpUPKQsc20hUmoAEc2mwXXXXXX"
+  }
+}
